@@ -18,7 +18,10 @@ st.set_page_config(page_title="Amazon Fashion Sentiment Streaming", layout="wide
 # ==========================================
 # YÊU CẦU CỦA THẦY: CHÈN LINK GOOGLE COLAB
 # ==========================================
-st.markdown("🔗 **Link Google Colab:** [Nhập link Google Colab của bạn vào đây](https://colab.research.google.com/...)")
+# ==========================================
+# YÊU CẦU CỦA THẦY: CHÈN LINK GOOGLE COLAB
+# ==========================================
+st.markdown("🔗 **Link Google Colab:** [Xem chi tiết mã nguồn trên Google Colab tại đây](https://colab.research.google.com/drive/1Oebj9Ukgu26NcK0uT1v8956Ns_8BkDMB?usp=sharing)")
 
 st.title("Ứng dụng Big Data Streaming Phân Tích Cảm Xúc Khách Hàng")
 
