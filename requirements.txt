@@ -1,0 +1,8 @@
+streamlit
+confluent-kafka
+transformers
+torch
+matplotlib
+requests
+pandas
+numpy
